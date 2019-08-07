@@ -1,1 +1,1 @@
-filecontent
+{'keys': [{'kty': 'RSA', 'use': 'sig', 'kid': 'pentesterlab', 'n': 'vXAqiW61oxt8npY1KHPYPzRncYu2kyln2BYSdOprE9YbUbS2a5gED7XWy8M4uO-bZmZUo-FmEZn7TAwgXugKow', 'e': 'AQAB', 'alg': 'RS256'}]}
