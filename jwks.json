@@ -1,1 +1,1 @@
-{'keys': [{'kty': 'RSA', 'use': 'sig', 'kid': 'pentesterlab', 'n': 'vXAqiW61oxt8npY1KHPYPzRncYu2kyln2BYSdOprE9YbUbS2a5gED7XWy8M4uO-bZmZUo-FmEZn7TAwgXugKow', 'e': 'AQAB', 'alg': 'RS256'}]}
+{'keys': [{'kty': 'RSA', 'use': 'sig', 'kid': 'Absol3m@hacker.com', 'n': 'rBi78NjcM1UQyTgWntGU440isvfIqds_E_URUfBg5QSdrGZ4E9bRyi3FQns1mNcOrOpjqyOa136rPd4ipTGsow', 'e': 'AQAB', 'alg': 'RS256'}]}
